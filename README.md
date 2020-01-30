@@ -1,4 +1,4 @@
-# Haskell Language Reference
+# Haskell Notes
 
 A collection of reference notes to learn Haskell.
 
